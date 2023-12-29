@@ -10,6 +10,10 @@ This is a web based application developed for health related website in india.
 
 **Demo Video** -  
 
+**Azure technologies used for project**
+  Health bot
+  Static web apps
+
 ## Features and Functionalities 😃
 
 - Interactive and responsive UI.
